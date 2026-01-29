@@ -1,0 +1,5 @@
+{
+  "name": "Surface Tension - Chrome Grid",
+  "description": "A high-performance 3D interactive grid built with React Three Fiber, featuring metallic textures and ripple effects on hover.",
+  "requestFramePermissions": []
+}
